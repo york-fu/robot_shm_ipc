@@ -12,7 +12,7 @@ cd build
 cmake ..
 make -j`nporc`
 
-./example/state
-./example/command
+./example/driver
+./example/controller
 ./example/monitor
 ```
